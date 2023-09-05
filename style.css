@@ -62,14 +62,6 @@
   margin: 10px;
 }
 
-/* white-space */
-/* 
-normal
-nowrap 
-pre
-pre-wrap
-*/
-
 ::-webkit-scrollbar {
   display: none;
 }
@@ -173,7 +165,6 @@ pre-wrap
 .row-2-2 {
   gap: 0.3rem;
   display: flex;
-  /* flex-direction: column; */
 }
 
 .row-2-col-2 {
